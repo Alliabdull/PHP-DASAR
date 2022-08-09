@@ -1,0 +1,22 @@
+PHP adalah bahasa pemrograman yang ada di sisi server. Bahasa ini digunakan untuk mengelola konten dinamis, database, session tracking, dan bahkan keseluruhan situs e-commerce.
+
+Sebetulnya, kamu bisa membuat web dengan memakai HTML saja. Namun, hasilnya terasa kurang menarik lantaran HTML membuat tampilan web statis dengan konten dan halaman yang bersifat permanen.
+
+Ketika suatu web dibangun dengan PHP, tampilan web justru lebih dinamis. Kamu bisa mengatur tampilan konten sesuai situasi atau momen tertentu tanpa mengubah dasar pemrograman web tersebut.
+Keuntungan belajar PHP adalah kamu bisa mengandalkan web, kursus online, maupun tutorial YouTube. Semua materi tersedia secara gratis maupun berbayar.
+
+Tinggal bagaimana kamu mengumpulkan niat untuk mau mempelajarinya semua satu per satu dari nol.
+
+Selain itu, karena bersifat open source, kamu bisa menjalankan PHP dengan mudah di semua sistem operasi. Mulai dari Windows, Macintosh, hingga Linux.
+
+Jadi, apa pun sistem operasi yang kamu miliki, kamu bisa segera mengulik PHP tanpa perlu repot berganti sistem.
+
+Karena bahasa pemrograman ini memakai sistem server-side, kamu tinggal memasukkan script atau program itu ke dalam server. Dengan kata lain, PHP cukup mudah di-install dalam server web.
+
+Misalnya, salah satu server yang paling dikenal adalah Apache. Keuntungan tersebut juga diikuti oleh konfigurasi yang mudah, sehingga mempelajari, memahami, dan menggunakan PHP itu terbilang cepat dan ringkas.
+
+Bagi seorang web developer, menguasai bahasa pemrograman ini memudahkan dalam pengembangan aplikasi berbasis web yang kompleks dan andal.
+
+Tentu hal tersebut bergantung juga pada spesifikasi bisnis tempat web itu bernaung, pemakaian hosting, kebutuhan aplikasi, pengalaman developer, serta pengembangan timeframe.
+
+Demikian informasi mengenai apa itu PHP serta dasar-dasar yang akan kamu pelajari

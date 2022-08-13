@@ -1,0 +1,16 @@
+langkah peertama dalam php dasar adalah Memahami HTML dan CSS terlebih dahulu. Pahami pemrograman html dan CSS karena pemrograman php dapat disisipkan pada keduanya
+
+Untuk bisa memahami materi php dasar, kita harus mempunyai code editor,sublime teks,notepad ++
+
+-nanti website yang kita buat itu, akan kita hubungkan dengan database dan didatabase kita akan belajar mengenai CRUD(Create,Read,Update,Delete)
+-lalu kita akan belajar mengenai login dan regristasi, kita harus melengkapi login dan regristasi dengan session&cookie
+-konsep ajax untuk menambah konteraktivitas pada web,setiap web pasti ada ajaxnya-
+-Reporting atau pelaporan yang awalnya halaman web akan diubah menjadi dokumen
+
+Syntax PHP adalah aturan penulisan agar mampu dimengerti dengan benar oleh compiler saat membaca bahasa pemrograman. Dalam penulisan PHP yang benar diawali 
+dengan “<? php” dan diakhiri dengan “?>
+
+struktur dari bahasa pemrograman PHP, yaitu 
+a. Syntax awal untuk membuat program PHP adalah di awali dengan <?php dan diakhiri dengan syntax ?> 
+b. Untuk menampilkan tulisan dalam browser, maka kita menggunakan syntax echo “…..”; 
+

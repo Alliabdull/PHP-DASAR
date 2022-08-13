@@ -1,13 +1,28 @@
-PHP adalah bahasa pemrograman yang ada di sisi server. Bahasa ini digunakan untuk mengelola konten dinamis, database, session tracking, dan bahkan keseluruhan situs e-commerce.
-Sebetulnya, kamu bisa membuat web dengan memakai HTML saja. Namun, hasilnya terasa kurang menarik lantaran HTML membuat tampilan web statis dengan konten dan halaman yang bersifat permanen.
-Ketika suatu web dibangun dengan PHP, tampilan web justru lebih dinamis. Kamu bisa mengatur tampilan konten sesuai situasi atau momen tertentu tanpa mengubah dasar pemrograman web tersebut.
-Keuntungan belajar PHP adalah kamu bisa mengandalkan web, kursus online, maupun tutorial YouTube. Semua materi tersedia secara gratis maupun berbayar.
+#PHP DASAR
 
-Tinggal bagaimana kamu mengumpulkan niat untuk mau mempelajarinya semua satu per satu dari nol
-Selain itu, karena bersifat open source, kamu bisa menjalankan PHP dengan mudah di semua sistem operasi. Mulai dari Windows, Macintosh, hingga Linux.
-Jadi, apa pun sistem operasi yang kamu miliki, kamu bisa segera mengulik PHP tanpa perlu repot berganti sistem.
-Karena bahasa pemrograman ini memakai sistem server-side, kamu tinggal memasukkan script atau program itu ke dalam server. Dengan kata lain, PHP cukup mudah di-install dalam server web.
-Misalnya, salah satu server yang paling dikenal adalah Apache. Keuntungan tersebut juga diikuti oleh konfigurasi yang mudah, sehingga mempelajari, memahami, dan menggunakan PHP itu terbilang cepat dan ringkas.
-Bagi seorang web developer, menguasai bahasa pemrograman ini memudahkan dalam pengembangan aplikasi berbasis web yang kompleks dan andal.
-Tentu hal tersebut bergantung juga pada spesifikasi bisnis tempat web itu bernaung, pemakaian hosting, kebutuhan aplikasi, pengalaman developer, serta pengembangan timeframe.
-Demikian informasi mengenai apa itu PHP serta dasar-dasar yang akan kamu pelajari
+PHP  (PHP: Hypertext Preprocessor) adalah bahasa pemrograman yang ada di sisi server. Bahasa ini digunakan untuk mengelola konten dinamis, database, session tracking,
+dan bahkan keseluruhan situs e-commerce.Sebetulnya, kamu bisa membuat web dengan memakai HTML saja. Namun, hasilnya terasa kurang menarik lantaran HTML membuat 
+tampilan web statis dengan konten dan halaman yang bersifat permanen.Ketika suatu web dibangun dengan PHP, tampilan web justru lebih dinamis. Kamu bisa mengatur
+tampilan konten sesuai situasi atau momen tertentu tanpa mengubah dasar pemrograman web tersebut.Keuntungan belajar PHP adalah kamu bisa mengandalkan web, 
+kursus online, maupun tutorial YouTube. Semua materi tersedia secara gratis maupun berbayar.
+
+DATABASE PHP:  MySQL, PostgreSQL, Oracle, Microsoft SQL Server, Sybase
+
+code dasar php
+-sintaks dasar php         Dalam menulis Script PHP, selalu diawali dengan tanda <?php dan diakhiri dengan tag ?>.Variabel perintah pada PHP diakhiri dengan simbol titik 
+koma;Inilah contoh penulisan sintaks dasar PHP:
+
+-Variabel PHP              Variabel digunakan untuk menyimpan data berupa teks, angka, dan yang lainnya.
+:Di dalam PHP, variabel tidak perlu dideklarasikan sebelum menambahkan nilai dan diawali tanda “$”. PHP secara otomatis mengkonversi variabel ke tipe data yang
+benar berdasarkan nilai atau valuenya.Setelah mendeklarasikan variabel, variabel yang sama bisa digunakan kembali melalui perintah tertentu.Assignment operator 
+dalam PHP berupa tada sama dengan (=) yang digunakan untuk menambahkan nilai atau value ke variabel
+
+[sourcecode lang=”PHP”] <?php
+echo “Selamat datang di Dewaweb”;
+?> [/sourcecode]
+
+Berikut penjelasan kode tersebut:
+•	<?php adalah kode wajib untuk membuka program PHP
+•	echo adalah perintah untuk menampilkan teks
+•	“Selamat datang di Dewaweb”; adalah teks yang hendak ditampilkan dan ditulis antara tanda petik dan diakhiri titik koma
+•	?> adalah kode untuk mengakhiri program PHP dan digunakan saat digabung dengan bahasa pemrograman lain
